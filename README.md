@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @Rohit1024
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... GCP
-- 💞️ I’m looking to collaborate on ... Web and Cloud Technologies
-- 📫 How to reach me ... rohitkharche1024@gmail.com
+# Hi there, I'm Rohit! 👋
+Web Developer & DevOps Engineer <em>Passionate about building scalable web applications and cloud infrastructure</em>
 
-<!---
-Rohit1024/Rohit1024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+- 🔭 Currently working on **Web Development** projects
+- 🌱 Learning **Google Cloud Platform (GCP)** and cloud-native technologies
+- 👯 Looking to collaborate on **Web and Cloud Technologies**
+- 💬 Ask me about **React, Next.js, Docker, Kubernetes, and cloud deployments**
+- 📫 Reach me at: **rohitkharche1024@gmail.com**
+- ⚡ Fun fact: I love automating everything!
+
+## 🛠️ Tech Stack
+#### Cloud & DevOps
+<p align="start">
+  <a href="https://lab5.ca">
+    <img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,linux,terraform,gitlab,githubactions,jenkins" />
+  </a>
+</p>
+
+#### Frontend Development
+<p align="start">
+  <a href="https://lab5.ca">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,angular" />
+  </a>
+</p>
+
+#### Backend & Database
+<p align="start">
+  <a href="https://lab5.ca">
+    <img src="https://skillicons.dev/icons?i=python,nestjs,spring,firebase,supabase,postgres,prisma,bun" />
+  </a>
+</p>
+
+#### Tools & Others
+<p align="start">
+  <a href="https://lab5.ca">
+    <img src="https://skillicons.dev/icons?i=vscode,github,stackoverflow" />
+  </a>
+</p>
