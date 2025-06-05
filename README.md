@@ -13,28 +13,20 @@ Web Developer & DevOps Engineer <em>Passionate about building scalable web appli
 ## 🛠️ Tech Stack
 #### Cloud & DevOps
 <p align="start">
-  <a href="https://lab5.ca">
     <img src="https://skillicons.dev/icons?i=gcp,aws,kubernetes,docker,linux,terraform,gitlab,githubactions,jenkins" />
-  </a>
 </p>
 
 #### Frontend Development
 <p align="start">
-  <a href="https://lab5.ca">
     <img src="https://skillicons.dev/icons?i=ts,react,nextjs,astro,angular" />
-  </a>
 </p>
 
 #### Backend & Database
 <p align="start">
-  <a href="https://lab5.ca">
     <img src="https://skillicons.dev/icons?i=python,nestjs,spring,firebase,supabase,postgres,prisma,bun" />
-  </a>
 </p>
 
 #### Tools & Others
 <p align="start">
-  <a href="https://lab5.ca">
     <img src="https://skillicons.dev/icons?i=vscode,github,stackoverflow" />
-  </a>
 </p>
